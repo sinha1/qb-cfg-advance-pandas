@@ -7,7 +7,9 @@
 ## 01. Pandas in real world
 
 - Exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sinha1/qb-cfg-advance-pandas/master?filepath=01_pandas_in_the_real_world.ipynb)
+-Answers: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sinha1/qb-cfg-advance-pandas/master?filepath=01_pandas_in_the_real_world_answers.ipynb)
 
 ## 02. Visualization with Python
 
 - Exercise: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sinha1/qb-cfg-advance-pandas/master?filepath=02_visualization_with_python.ipynb)
+-Answer: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/sinha1/qb-cfg-advance-pandas/master?filepath=02_visualization_with_python_answers.ipynb)
